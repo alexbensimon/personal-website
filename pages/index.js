@@ -1,1 +1,1 @@
-export default () => <p>🙆‍♂️</p>;
+export default () => <p>👋</p>;
