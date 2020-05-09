@@ -8,5 +8,10 @@ export default () => (
         <a>Lorem</a>
       </Link>
     </li>
+    <style jsx>{`
+      a {
+        color: black;
+      }
+    `}</style>
   </ul>
 );

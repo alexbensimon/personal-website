@@ -9,8 +9,9 @@ export const PageWrapper: FC = ({ children }) => (
     {children}
     <style jsx>{`
       .root {
-        width: 50%;
+        width: 35em;
         margin: auto;
+        padding: 20px 30px;
       }
     `}</style>
   </div>
