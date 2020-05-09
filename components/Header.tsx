@@ -2,10 +2,10 @@ import Link from 'next/link';
 import React, { FC } from 'react';
 
 export const Header: FC = () => (
-  <div>
-    <h1>Alexandre Bensimon</h1>
+  <div className="root">
+    <span>Alexandre Bensimon</span>
     <nav>
-      <ul>
+      <ul className="list">
         <li>
           <Link href="/">
             <a>Home</a>
@@ -18,5 +18,14 @@ export const Header: FC = () => (
         </li>
       </ul>
     </nav>
+    <style jsx>{`
+      .root {
+        text-align: center;
+      }
+      .list {
+        list-style-type: none;
+        padding: 0;
+      }
+    `}</style>
   </div>
 );
