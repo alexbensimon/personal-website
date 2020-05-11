@@ -14,8 +14,10 @@ export const GlobalStyles: FC = () => (
     a {
       color: black;
     }
-    a:hover {
-      color: ${colors.red};
+    @media (hover: hover) {
+      a:hover {
+        color: ${colors.red};
+      }
     }
   `}</style>
 );
