@@ -1,4 +1,5 @@
 import React, { FC } from 'react';
+import { colors } from '../utils/colors';
 
 export const GlobalStyles: FC = () => (
   <style jsx global>{`
@@ -9,6 +10,12 @@ export const GlobalStyles: FC = () => (
     }
     h1 {
       font-family: 'Alegreya SC', serif;
+    }
+    a {
+      color: black;
+    }
+    a:hover {
+      color: ${colors.red};
     }
   `}</style>
 );

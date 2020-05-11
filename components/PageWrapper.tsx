@@ -3,16 +3,18 @@ import { GlobalStyles } from './GlobalStyles';
 import { Header } from './Header';
 
 export const PageWrapper: FC = ({ children }) => (
-  <div className="root">
-    <GlobalStyles />
-    <Header />
-    {children}
+  <>
+    <div className="root">
+      <GlobalStyles />
+      <Header />
+      {children}
+    </div>
     <style jsx>{`
       .root {
-        width: 35em;
+        max-width: 35em;
         margin: auto;
-        padding: 20px 30px;
+        padding: 10px 15px;
       }
     `}</style>
-  </div>
+  </>
 );
