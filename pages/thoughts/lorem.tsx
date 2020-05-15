@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import React from 'react';
+import { ThoughtDate } from '../../components/ThoughtDate';
 
 export default () => (
   <>
@@ -9,6 +10,7 @@ export default () => (
     </Head>
     <div>
       <h1>Lorem</h1>
+      <ThoughtDate>2020-05</ThoughtDate>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, non
         ipsa? Ducimus consectetur nam nihil iure hic. Ipsa qui necessitatibus
