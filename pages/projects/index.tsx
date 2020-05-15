@@ -7,13 +7,9 @@ export default () => (
       <title>Projects | Alexandre Bensimon</title>
       <meta name="description" content="Projects I've been working on." />
     </Head>
-    <div className="root">
+    <div>
+      <h1>Projects</h1>
       <p>Coming soon.</p>
     </div>
-    <style jsx>{`
-      .root {
-        text-align: center;
-      }
-    `}</style>
   </>
 );
