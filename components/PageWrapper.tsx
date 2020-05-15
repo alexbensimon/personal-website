@@ -10,8 +10,8 @@ export const PageWrapper: FC = ({ children }) => {
 
   return (
     <>
+      <GlobalStyles />
       <div className="root">
-        <GlobalStyles />
         <Header />
         {children}
       </div>
