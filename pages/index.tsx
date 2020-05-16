@@ -21,28 +21,28 @@ export default () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <AiOutlineTwitter size="1.5em" title="Twitter icon" />
+          <AiOutlineTwitter size="1.5em" title="Twitter" />
         </a>
         <a
           href="https://linkedin.com/in/alexandrebensimon/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <AiOutlineLinkedin size="1.5em" title="LinkedIn icon" />
+          <AiOutlineLinkedin size="1.5em" title="LinkedIn" />
         </a>
         <a
           href="https://github.com/alexbensimon"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <AiOutlineGithub size="1.5em" title="Github icon" />
+          <AiOutlineGithub size="1.5em" title="Github" />
         </a>
         <a
           href="https://medium.com/@alexandrebensimon"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <AiOutlineMedium size="1.5em" title="Medium icon" />
+          <AiOutlineMedium size="1.5em" title="Medium" />
         </a>
       </div>
     </div>
