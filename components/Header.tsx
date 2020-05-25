@@ -41,7 +41,7 @@ export const Header: FC = () => {
         .titleOnRoot {
           margin: 0;
           font-family: 'Lato', sans-serif;
-          font-size: initial;
+          font-size: large;
           font-weight: normal;
         }
         .list {

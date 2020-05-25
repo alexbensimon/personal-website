@@ -12,9 +12,9 @@ export default () => (
       <h1>Thoughts</h1>
       <ul>
         <li className="listItem">
-          <Link href="/thoughts/lorem">
+          <Link href="/thoughts/abstraction">
             <a>
-              <h2 className="itemTitle">Lorem</h2>
+              <h2 className="itemTitle">Abstraction</h2>
             </a>
           </Link>
         </li>

@@ -7,6 +7,7 @@ export const GlobalStyles: FC = () => (
     body {
       font-family: 'Lato', sans-serif;
       line-height: 1.5;
+      font-size: large;
     }
     h1 {
       font-family: 'Alegreya SC', serif;
