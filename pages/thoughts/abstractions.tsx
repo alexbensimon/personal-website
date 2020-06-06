@@ -5,11 +5,11 @@ import { ThoughtDate } from '../../components/ThoughtDate';
 export default () => (
   <>
     <Head>
-      <title>Abstraction | Thoughts | Alexandre Bensimon</title>
+      <title>Abstractions | Thoughts | Alexandre Bensimon</title>
       <meta name="description" content="My thoughts on abstractions." />
     </Head>
     <div>
-      <h1>Abstraction</h1>
+      <h1>Abstractions</h1>
       <ThoughtDate>2020-05-25</ThoughtDate>
       <p>
         When I try to explain what I do to non-technical people, I often fail to

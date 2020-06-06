@@ -12,9 +12,16 @@ export default () => (
       <h1>Thoughts</h1>
       <ul>
         <li className="listItem">
-          <Link href="/thoughts/abstraction">
+          <Link href="/thoughts/games">
             <a>
-              <h2 className="itemTitle">Abstraction</h2>
+              <h2 className="itemTitle">Games</h2>
+            </a>
+          </Link>
+        </li>
+        <li className="listItem">
+          <Link href="/thoughts/abstractions">
+            <a>
+              <h2 className="itemTitle">Abstractions</h2>
             </a>
           </Link>
         </li>
