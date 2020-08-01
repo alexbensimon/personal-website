@@ -12,6 +12,13 @@ export default () => (
       <h1>Thoughts</h1>
       <ul>
         <li className="listItem">
+          <Link href="/thoughts/writing">
+            <a>
+              <h2 className="itemTitle">Writing</h2>
+            </a>
+          </Link>
+        </li>
+        <li className="listItem">
           <Link href="/thoughts/games">
             <a>
               <h2 className="itemTitle">Games</h2>
