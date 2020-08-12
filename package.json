@@ -27,5 +27,9 @@
     "eslint-plugin-react": "7.x",
     "eslint-plugin-react-hooks": "2.x",
     "typescript": "^3.8.3"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
   }
 }
