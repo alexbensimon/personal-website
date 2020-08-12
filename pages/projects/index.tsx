@@ -9,7 +9,45 @@ export default () => (
     </Head>
     <div>
       <h1>Projects</h1>
-      <p>Coming soon.</p>
+      <ul>
+        <li className="listItem">
+          <a
+            href="https://github.com/alexbensimon/personal-website"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">This website</h2>
+          </a>
+        </li>
+        <li className="listItem">
+          <a
+            href="https://github.com/alexbensimon/maman"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">Mom's website</h2>
+          </a>
+        </li>
+        <li className="listItem">
+          <a
+            href="https://github.com/alexbensimon/qure"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">Qure</h2>
+          </a>
+        </li>
+      </ul>
     </div>
+    <style jsx>{`
+      .listItem {
+        margin-bottom: 10px;
+      }
+      .itemTitle {
+        display: inline;
+        font-weight: normal;
+        font-size: larger;
+      }
+    `}</style>
   </>
 );
