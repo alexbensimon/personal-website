@@ -6,7 +6,7 @@ export default () => (
   <>
     <Head>
       <title>Abstractions | Thoughts | Alexandre Bensimon</title>
-      <meta name="description" content="My thoughts on abstractions." />
+      <meta name="description" content="Thoughts on abstractions." />
     </Head>
     <div>
       <h1>Abstractions</h1>
