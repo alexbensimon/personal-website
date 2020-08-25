@@ -10,7 +10,7 @@ export default () => (
     </Head>
     <div>
       <h1>Guidelines</h1>
-      <ThoughtDate>2020-08-12</ThoughtDate>
+      <ThoughtDate>2020-08-12 (last edited: 2020-08-25)</ThoughtDate>
       <p>
         I've thought a lot about what kind of habits I need to cultivate to be
         my most happy and productive self. For many years, I tried every
@@ -68,6 +68,7 @@ export default () => (
       </ul>
       <h2>Fasting</h2>
       <ul>
+        <li>16-hour fast every day</li>
         <li>1-day fast every week</li>
         <li>3-day fast every month</li>
         <li>5-day fast every 3 months (work in progress)</li>
