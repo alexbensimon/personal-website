@@ -1,13 +1,11 @@
 import React, { FC, useEffect } from 'react';
 import { loadGoogleAnalytics } from '../utils/googleAnalytics';
-import { loadOmnisend } from '../utils/omnisend';
 import { GlobalStyles } from './GlobalStyles';
 import { Header } from './Header';
 
 export const PageWrapper: FC = ({ children }) => {
   useEffect(() => {
     loadGoogleAnalytics();
-    loadOmnisend();
   }, []);
 
   return (
