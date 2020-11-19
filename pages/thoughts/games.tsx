@@ -2,7 +2,7 @@ import Head from 'next/head';
 import React from 'react';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
-export default () => (
+const Games = () => (
   <>
     <Head>
       <title>Games | Thoughts | Alexandre Bensimon</title>
@@ -121,3 +121,5 @@ export default () => (
     </div>
   </>
 );
+
+export default Games;

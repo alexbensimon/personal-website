@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
 
-export default () => (
+const Index = () => (
   <>
     <Head>
       <title>Thoughts | Alexandre Bensimon</title>
@@ -53,3 +53,5 @@ export default () => (
     `}</style>
   </>
 );
+
+export default Index;

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
-export default () => (
+const Writing = () => (
   <>
     <Head>
       <title>Writing | Thoughts | Alexandre Bensimon</title>
@@ -88,3 +88,5 @@ export default () => (
     </div>
   </>
 );
+
+export default Writing;

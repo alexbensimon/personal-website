@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import React from 'react';
 
-export default () => (
+const Index = () => (
   <>
     <Head>
       <title>Projects | Alexandre Bensimon</title>
@@ -51,3 +51,5 @@ export default () => (
     `}</style>
   </>
 );
+
+export default Index;

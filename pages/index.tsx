@@ -7,7 +7,7 @@ import {
   AiOutlineTwitter,
 } from 'react-icons/ai';
 
-export default () => (
+const Index = () => (
   <>
     <Head>
       <title>Alexandre Bensimon</title>
@@ -62,3 +62,5 @@ export default () => (
     `}</style>
   </>
 );
+
+export default Index;
