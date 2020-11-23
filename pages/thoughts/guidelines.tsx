@@ -10,7 +10,7 @@ const Guidelines = () => (
     </Head>
     <div>
       <h1>Guidelines</h1>
-      <ThoughtDate>2020-08-12 (last edited: 2020-08-25)</ThoughtDate>
+      <ThoughtDate>2020-08-12 (last edited: 2020-11-24)</ThoughtDate>
       <p>
         I've thought a lot about what kind of habits I need to cultivate to be
         my most happy and productive self. For many years, I tried every
@@ -34,20 +34,21 @@ const Guidelines = () => (
         would encompass all the rest. I ended up realizing that a shortlist of
         actions was enough to help me in most situations. This way, writing them
         in a note file works just fine. Here are the simple guidelines I try to
-        live by to stay physically and mentally fit:
+        live by to stay physically and mentally fit. I will keep them updated if
+        my habits change.
       </p>
       <h2>Sleep</h2>
       <ul>
-        <li>8-9 hours of sleep opportunity</li>
+        <li>7-9 hours in bed</li>
         <li>Go to bed and wake up at the same time</li>
-        <li>Keep the room cold (18-19 °C)</li>
+        <li>Keep the room cold (16-19 °C)</li>
         <li>Avoid screens around bedtime</li>
         <li>Avoid eating around bedtime</li>
         <li>Avoid snoozing (better yet: no alarm)</li>
       </ul>
       <h2>Exercise</h2>
       <ul>
-        <li>15 minutes of interval resistance training every day</li>
+        <li>Some functional training every day</li>
         <li>Take the stairs</li>
       </ul>
       <h2>Nutrition</h2>
@@ -61,23 +62,11 @@ const Guidelines = () => (
         <li>Avoid alcohol</li>
         <li>Avoid tea and coffee</li>
         <li>Eat a lot of vegetables and a few fruits</li>
-        <li>
-          Consume high-quality products (free-range eggs, organic fruits and
-          vegetables, quality meat, etc.)
-        </li>
-      </ul>
-      <h2>Fasting</h2>
-      <ul>
         <li>16-hour fast every day</li>
-        <li>1-day fast every week</li>
-        <li>3-day fast every month</li>
-        <li>5-day fast every 3 months (work in progress)</li>
-        <li>7-day fast every 6 months (work in progress)</li>
-        <li>10-day fast every year (work in progress)</li>
       </ul>
       <h2>Mental</h2>
       <ul>
-        <li>15 minutes of silent meditation every day</li>
+        <li>Silent meditation every day</li>
         <li>Avoid video games</li>
         <li>Avoid social networks</li>
         <li>Avoid porn</li>
