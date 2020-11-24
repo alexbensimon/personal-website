@@ -48,7 +48,7 @@ const Guidelines = () => (
       </ul>
       <h2>Exercise</h2>
       <ul>
-        <li>Some functional training every day</li>
+        <li>Functional training every day</li>
         <li>Take the stairs</li>
       </ul>
       <h2>Nutrition</h2>
