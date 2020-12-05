@@ -12,6 +12,15 @@ const Index = () => (
       <ul>
         <li className="listItem">
           <a
+            href="https://github.com/alexbensimon/advent-of-code-2020"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">AoC 2020 in Rust</h2>
+          </a>
+        </li>
+        <li className="listItem">
+          <a
             href="https://github.com/alexbensimon/personal-website"
             target="_blank"
             rel="noopener noreferrer"
