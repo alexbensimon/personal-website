@@ -11,7 +11,7 @@ const Writing = () => (
     </Head>
     <div>
       <h1>Writing</h1>
-      <ThoughtDate>2020-08-01</ThoughtDate>
+      <ThoughtDate>2020-08-01 (last edited: 2020-12-29)</ThoughtDate>
       <p>
         I can't help thinking about all kinds of stuff all the time. It's often
         philosophical or existential topics like "how does the human mind and
@@ -61,7 +61,7 @@ const Writing = () => (
         what I write. When something makes me think a lot, I'll write about it.
         I don't want to pick a specific audience or topic. I just want to write
         about what I find the most interesting right now. With no self-imposed
-        posting rate or length size.
+        posting rate or word count.
       </p>
       <p>
         I could achieve all this by writing in private so why starting yet
