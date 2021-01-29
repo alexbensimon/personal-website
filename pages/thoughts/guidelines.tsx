@@ -10,7 +10,7 @@ const Guidelines = () => (
     </Head>
     <div>
       <h1>Guidelines</h1>
-      <ThoughtDate>2020-08-12 (last edited: 2020-11-24)</ThoughtDate>
+      <ThoughtDate>2020-08-12 (last edited: 2021-01-29)</ThoughtDate>
       <p>
         I've thought a lot about what kind of habits I need to cultivate to be
         my most happy and productive self. For many years, I tried every
@@ -64,9 +64,10 @@ const Guidelines = () => (
         <li>Eat a lot of vegetables and a few fruits</li>
         <li>16-hour fast every day</li>
       </ul>
-      <h2>Mental</h2>
+      <h2>Misc</h2>
       <ul>
         <li>Silent meditation every day</li>
+        <li>Breathe through the nose</li>
         <li>Avoid video games</li>
         <li>Avoid social networks</li>
         <li>Avoid porn</li>
