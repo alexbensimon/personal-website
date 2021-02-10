@@ -14,22 +14,22 @@ export const Header: FC = () => {
         )}
         <nav>
           <ul className="list">
-            <li>
+            <li className="listItem">
               <Link href="/">
                 <a>Home</a>
               </Link>
             </li>
-            <li>
+            <li className="listItem">
               <Link href="/thoughts">
                 <a>Thoughts</a>
               </Link>
             </li>
-            <li>
+            <li className="listItem">
               <Link href="/projects">
                 <a>Projects</a>
               </Link>
             </li>
-            <li>
+            <li className="listItem">
               <a
                 href="http://eepurl.com/hqjAnT"
                 target="_blank"
@@ -45,7 +45,6 @@ export const Header: FC = () => {
         .root {
           text-align: center;
           margin-bottom: 50px;
-          min-width: 250px;
         }
         .titleOnRoot {
           margin: 0;
@@ -58,6 +57,10 @@ export const Header: FC = () => {
           padding: 0;
           display: flex;
           justify-content: space-evenly;
+          flex-wrap: wrap;
+        }
+        .listItem {
+          padding: 0 10px 0;
         }
       `}</style>
     </>
