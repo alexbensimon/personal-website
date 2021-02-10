@@ -29,6 +29,15 @@ export const Header: FC = () => {
                 <a>Projects</a>
               </Link>
             </li>
+            <li>
+              <a
+                href="http://eepurl.com/hqjAnT"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Subscribe
+              </a>
+            </li>
           </ul>
         </nav>
       </div>
