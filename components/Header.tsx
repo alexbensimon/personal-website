@@ -31,7 +31,7 @@ export const Header: FC = () => {
             </li>
             <li className="listItem">
               <a
-                href="http://eepurl.com/hqjAnT"
+                href="https://tinyletter.com/alexbensimon"
                 target="_blank"
                 rel="noopener noreferrer"
               >
