@@ -31,7 +31,7 @@ const Country = () => (
           rel="noopener noreferrer"
         >
           1729.com
-        </a>{' '}
+        </a>
         . I'm into a lot of subjects Balaji talks about, including decentralized
         cooperation. Here are my thoughts on{' '}
         <a
