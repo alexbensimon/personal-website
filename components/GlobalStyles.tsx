@@ -12,6 +12,10 @@ export const GlobalStyles: FC = () => (
     h1 {
       font-family: 'Alegreya SC', serif;
     }
+    h2 {
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+    }
     a {
       color: black;
     }
