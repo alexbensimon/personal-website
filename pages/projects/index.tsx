@@ -12,6 +12,17 @@ const Index = () => (
       <ul>
         <li className="listItem">
           <a
+            href="https://github.com/alexbensimon/laccord-parfait"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">
+              Headless CMS and static generation for a beauty salon website
+            </h2>
+          </a>
+        </li>
+        <li className="listItem">
+          <a
             href="https://replit.com/@alexbensimon/DiscorDynamic"
             target="_blank"
             rel="noopener noreferrer"
