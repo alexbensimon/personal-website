@@ -12,6 +12,15 @@ const Index = () => (
       <ul>
         <li className="listItem">
           <a
+            href="https://github.com/alexbensimon/aoc-2021"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="itemTitle">AoC 2021 in Elixir</h2>
+          </a>
+        </li>
+        <li className="listItem">
+          <a
             href="https://github.com/alexbensimon/laccord-parfait"
             target="_blank"
             rel="noopener noreferrer"
