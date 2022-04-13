@@ -10,10 +10,10 @@ const Guidelines = () => (
     </Head>
     <div>
       <h1>Guidelines</h1>
-      <ThoughtDate>2020-08-12 (last edited: 2021-01-29)</ThoughtDate>
+      <ThoughtDate>2020-08-12 (last edited: 2022-04-13)</ThoughtDate>
       <p>
         I've thought a lot about what kind of habits I need to cultivate to be
-        my most happy and productive self. For many years, I tried every
+        my most happy and productive self. For many years, I've tried every
         self-help micro-habits stuff I could find in books, blogs, and podcasts.
       </p>
       <p>
@@ -29,50 +29,73 @@ const Guidelines = () => (
       <p>
         Remembering a lot of self-imposed rules can be daunting. You then need
         yet another app or a complicated managing system to keep track of all of
-        them. I spent a lot of time refining my habits: kicking out what didn't
-        work and simplifying what did. I wanted to find the core principles that
-        would encompass all the rest. I ended up realizing that a shortlist of
+        them. I spend a lot of time refining my habits: kicking out what doesn't
+        work and simplifying what does. I want to find the core principles that
+        empower everything else. I ended up realizing that a shortlist of
         actions was enough to help me in most situations. This way, writing them
         in a note file works just fine. Here are the simple guidelines I try to
         live by to stay physically and mentally fit. I will keep them updated if
-        my habits change.
+        my habits change. Obviously, what works for me may not work for you.
       </p>
       <h2>Sleep</h2>
       <ul>
-        <li>7-9 hours in bed</li>
-        <li>Go to bed and wake up at the same time</li>
-        <li>Keep the room cold (16-19 °C)</li>
+        <li>Use warm colors on screens in the evening</li>
+        <li>Avoid alcohol in the evening</li>
+        <li>Avoid eating or drinking around bedtime</li>
         <li>Avoid screens around bedtime</li>
-        <li>Avoid eating around bedtime</li>
-        <li>Avoid snoozing (better yet: no alarm)</li>
-      </ul>
-      <h2>Exercise</h2>
-      <ul>
-        <li>Functional training every day</li>
-        <li>Take the stairs</li>
+        <li>Have a cooldown routine (read, relax...)</li>
+        <li>Sleep in the dark (curtains, sleep mask)</li>
+        <li>Go to bed and wake up around the same time everyday</li>
+        <li>Get enough sleep (8-9 hours)</li>
+        <li>Track your sleep (Apple Watch, Fitbit, Oura ring...)</li>
+        <li>
+          Avoid aggressive wake up with an alarm (use vibrations, progressive
+          light...)
+        </li>
+        <li>Avoid snoozing</li>
+        <li>Get sun exposure in the morning</li>
       </ul>
       <h2>Nutrition</h2>
       <ul>
-        <li>Avoid processed food</li>
+        <li>Drink a lot of water</li>
+        <li>Do some kind of fasting (16/8, OMAD...)</li>
         <li>
-          Avoir high sugar (candies, ice cream, pastries, etc.) and simple carbs
-          (white bread, pastas, etc.)
+          Consume more: cruciferous vegetables, olive oil, nuts, seeds, fish,
+          avocado, berries, fermented food
         </li>
-        <li>Avoid fruit juice and soft drinks</li>
-        <li>Avoid alcohol</li>
-        <li>Avoid tea and coffee</li>
-        <li>Eat a lot of vegetables and a few fruits</li>
-        <li>16-hour fast every day</li>
+        <li>
+          Consume less: processed food, high sugar foods, red meat, soft drinks,
+          alcohol
+        </li>
+        <li>Take some supplements (whey, vitamin D, omega-3, zinc...)</li>
+      </ul>
+      <h2>Exercise</h2>
+      <ul>
+        <li>
+          Practice some functional strength and HIIT training (I do kettlebells)
+        </li>
+        <li>Do some kind of mobility training (stretching, yoga...)</li>
+        <li>Use the stairs when you can</li>
+        <li>Sit less, use a standing desk</li>
+        <li>Track your activity (Apple Watch, Whoop...)</li>
+      </ul>
+      <h2>Mind</h2>
+      <ul>
+        <li>Follow a morning routine</li>
+        <li>Meditate in the morning</li>
+        <li>Avoid notifications</li>
+        <li>Avoid video games</li>
+        <li>Avoid social networks, news and TV</li>
+        <li>Avoid porn</li>
+        <li>Have a life vision and clear objectives</li>
       </ul>
       <h2>Misc</h2>
       <ul>
-        <li>Silent meditation every day</li>
+        <li>Track air quality (I use a Netatmo sensor)</li>
+        <li>Aim at 5-8 hours of deep work per day</li>
         <li>Breathe through the nose</li>
-        <li>Avoid video games</li>
-        <li>Avoid social networks</li>
-        <li>Avoid porn</li>
-        <li>Express gratitude</li>
-        <li>Have a life vision</li>
+        <li>Track body composition (smart scale)</li>
+        <li>Take care of your skin</li>
       </ul>
     </div>
   </>
