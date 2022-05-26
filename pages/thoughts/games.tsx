@@ -19,15 +19,16 @@ const Games = () => (
       <p>
         In high school, I started playing RPGs: you control one character and
         make it evolve by endlessly fulfilling missions. It was fun for a while
-        but it's only when I discovered strategy games that I was truly hooked.
-        In this type of game, you don't control one character but a whole army.
-        You have to collect resources, build factories, optimize production and
-        fight your opponent. The big difference is that each game is a blank
-        slate, like chess. I spent so much time practicing openings and thinking
-        about the optimal way of doing things. I found forums on the web,
-        started discussing strategies with others and joining teams. I was not
-        spending time on one character anymore. I was improving skills that were
-        transferable from one game to the next. Spoiler: it's a great feeling.
+        but it's only when I discovered strategy games (STR) that I was truly
+        hooked. In this type of game, you don't control one character but a
+        whole army. You have to collect resources, build factories, optimize
+        production and fight your opponent. The big difference is that each game
+        is a blank slate, like chess. I spent so much time practicing openings
+        and thinking about the optimal way of doing things. I found forums on
+        the web, started discussing strategies with others and joining teams. I
+        was not spending time on one character anymore. I was improving skills
+        that were transferable from one game to the next. Spoiler: it's a great
+        feeling.
       </p>
       <p>
         I didn't talk about the rest of my life at that time because it was
@@ -78,7 +79,7 @@ const Games = () => (
         Musk and the like succeeded because they play video games, or despite
         it? We love to emulate successful people habits, thinking that it will
         make us more like them. But I don't think playing Factorio will make you
-        the next Tobi Lutke, no more than taking LSD will make you the next
+        the next Tobi Lütke, no more than taking LSD will make you the next
         Steve Jobs.
       </p>
       <p>

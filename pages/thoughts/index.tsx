@@ -12,6 +12,13 @@ const Index = () => (
       <h1>Thoughts</h1>
       <ul>
         <li className="listItem">
+          <Link href="/thoughts/microincentives">
+            <a>
+              <h2 className="itemTitle">Micro-incentives</h2>
+            </a>
+          </Link>
+        </li>
+        <li className="listItem">
           <Link href="/thoughts/indistractable">
             <a>
               <h2 className="itemTitle">Indistractable</h2>

@@ -35,7 +35,7 @@ export const Header: FC = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Subscribe
+                News
               </a>
             </li>
           </ul>
