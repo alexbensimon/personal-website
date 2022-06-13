@@ -10,7 +10,7 @@ const Guidelines = () => (
     </Head>
     <div>
       <h1>Guidelines</h1>
-      <ThoughtDate>2020-08-12 (last edited: 2022-04-13)</ThoughtDate>
+      <ThoughtDate>2020-08-12 (last edited: 2022-06-13)</ThoughtDate>
       <p>
         I've thought a lot about what kind of habits I need to cultivate to be
         my most happy and productive self. For many years, I've tried every
@@ -47,6 +47,9 @@ const Guidelines = () => (
         <li>Sleep in the dark (curtains, sleep mask)</li>
         <li>Go to bed and wake up around the same time everyday</li>
         <li>Get enough sleep (8-9 hours)</li>
+        <li>Have a good mattress and pillows</li>
+        <li>Avoid noise while sleeping (ear plugs, white noise)</li>
+        <li>Control the room or bed temperature (~18°C)</li>
         <li>Track your sleep (Apple Watch, Fitbit, Oura ring...)</li>
         <li>
           Avoid aggressive wake up with an alarm (use vibrations, progressive
@@ -68,6 +71,7 @@ const Guidelines = () => (
           alcohol
         </li>
         <li>Take some supplements (whey, vitamin D, omega-3, zinc...)</li>
+        <li>Do some blood and allergies testing</li>
       </ul>
       <h2>Exercise</h2>
       <ul>
@@ -94,6 +98,7 @@ const Guidelines = () => (
         <li>Track air quality (I use a Netatmo sensor)</li>
         <li>Aim at 5-8 hours of deep work per day</li>
         <li>Breathe through the nose</li>
+        <li>Practice cold and heat exposure</li>
         <li>Track body composition (smart scale)</li>
         <li>Take care of your skin</li>
       </ul>
