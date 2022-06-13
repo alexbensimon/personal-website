@@ -45,7 +45,7 @@ const Writing = () => (
           <a>abstraction</a>
         </Link>{' '}
         of thinking. I find it really interesting to look for the right words
-        and phrases to express a feeling or a thought. It's not easy. A tought
+        and phrases to express a feeling or a thought. It's not easy. A thought
         can be so abstract that I can't find a way to put it into words. But
         when I succeed, it's so rewarding. I hope that by improving my writing,
         I can improve my thinking.
