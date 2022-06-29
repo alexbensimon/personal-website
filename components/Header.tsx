@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { FC } from 'react';
+import { ExternalLink } from './ExternalLink';
 
 export const Header: FC = () => {
   const { pathname } = useRouter();
@@ -30,13 +31,9 @@ export const Header: FC = () => {
               </Link>
             </li>
             <li className="listItem">
-              <a
-                href="https://tinyletter.com/alexbensimon"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <ExternalLink href="https://tinyletter.com/alexbensimon">
                 News
-              </a>
+              </ExternalLink>
             </li>
           </ul>
         </nav>

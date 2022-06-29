@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import React from 'react';
+import { ExternalLink } from '../../components/ExternalLink';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
 const Indistractable = () => (
@@ -16,13 +17,9 @@ const Indistractable = () => (
       <ThoughtDate>2021-08-20</ThoughtDate>
       <p>
         The book{' '}
-        <a
-          href="https://www.goodreads.com/book/show/44595007-indistractable"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://www.goodreads.com/book/show/44595007-indistractable">
           Indistractable
-        </a>{' '}
+        </ExternalLink>{' '}
         is about how to deal with distractions. It doesn’t express any judgement
         on what distractions are, but rather what one can do about them. It
         sounds simple but we all have some things we don’t manage quite right.
@@ -70,23 +67,15 @@ const Indistractable = () => (
         clear in your mind you don't want to do it, you cannot predict what
         state of mind you'll be in tomorrow. By making the choices easier for
         yourself, you increase your probability of success.{' '}
-        <a
-          href="https://en.wikipedia.org/wiki/Ulysses_pact"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://en.wikipedia.org/wiki/Ulysses_pact">
           Ulysses understood this
-        </a>{' '}
+        </ExternalLink>{' '}
         and tied himself up to the boat to be able to listen to the mermaids
         without jumping into the ocean. In software design, a similar idea is
         the{' '}
-        <a
-          href="https://blog.codinghorror.com/falling-into-the-pit-of-success/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://blog.codinghorror.com/falling-into-the-pit-of-success/">
           pit of success
-        </a>
+        </ExternalLink>
         .
       </p>
       <h2>The identity pact</h2>

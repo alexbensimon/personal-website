@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
+import { ExternalLink } from '../../components/ExternalLink';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
 const Country = () => (
@@ -17,30 +18,18 @@ const Country = () => (
       <ThoughtDate>2021-04-12</ThoughtDate>
       <p>
         I've recently heard about{' '}
-        <a
-          href="https://twitter.com/balajis"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://twitter.com/balajis">
           Balaji S. Srinivasan
-        </a>{' '}
+        </ExternalLink>{' '}
         and his really interesting project{' '}
-        <a
-          href="https://1729.com/a-newsletter-that-pays-you/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://1729.com/a-newsletter-that-pays-you/">
           1729.com
-        </a>
+        </ExternalLink>
         . I'm into a lot of subjects Balaji talks about, including decentralized
         cooperation. Here are my thoughts on{' '}
-        <a
-          href="https://1729.com/how-to-start-a-new-country/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://1729.com/how-to-start-a-new-country/">
           starting a new country online
-        </a>
+        </ExternalLink>
         .
       </p>
       <p>
@@ -66,13 +55,9 @@ const Country = () => (
       <p>
         Having a rich online life reduces the importance of your physical
         location. But the place you live in still has an{' '}
-        <a
-          href="http://www.paulgraham.com/cities.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="http://www.paulgraham.com/cities.html">
           impact
-        </a>{' '}
+        </ExternalLink>{' '}
         on you. You obviously have to obey local laws. But more importantly,
         we're social creatures. Our brains are wired to give more meaning to
         in-person interactions. I really believe you're the average of the

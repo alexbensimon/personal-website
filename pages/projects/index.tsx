@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import React from 'react';
+import { ExternalLink } from '../../components/ExternalLink';
 
 const Index = () => (
   <>
@@ -11,69 +12,39 @@ const Index = () => (
       <h1>Projects</h1>
       <ul>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/aoc-2021"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://github.com/alexbensimon/aoc-2021">
             <h2 className="itemTitle">AoC 2021 in Elixir</h2>
-          </a>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/laccord-parfait"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className="itemTitle">
-              Headless CMS and static generation for a beauty salon website
-            </h2>
-          </a>
+          <ExternalLink href="https://github.com/alexbensimon/laccord-parfait">
+            <h2 className="itemTitle">L'accord parfait</h2>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://replit.com/@alexbensimon/DiscorDynamic"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://replit.com/@alexbensimon/DiscorDynamic">
             <h2 className="itemTitle">Discord bot on Replit</h2>
-          </a>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/advent-of-code-2020"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://github.com/alexbensimon/advent-of-code-2020">
             <h2 className="itemTitle">AoC 2020 in Rust</h2>
-          </a>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/personal-website"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://github.com/alexbensimon/personal-website">
             <h2 className="itemTitle">This website</h2>
-          </a>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/maman"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://github.com/alexbensimon/maman">
             <h2 className="itemTitle">Mom's website</h2>
-          </a>
+          </ExternalLink>
         </li>
         <li className="listItem">
-          <a
-            href="https://github.com/alexbensimon/qure"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <ExternalLink href="https://github.com/alexbensimon/qure">
             <h2 className="itemTitle">Qure</h2>
-          </a>
+          </ExternalLink>
         </li>
       </ul>
     </div>

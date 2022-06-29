@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
+import { ExternalLink } from '../../components/ExternalLink';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
 const MicroIncentives = () => (
@@ -48,13 +49,9 @@ const MicroIncentives = () => (
         it’s as “pure” as people might think. It’s most likely a combination of
         education and culture, which means that it’s also hackable. I agree with
         Balaji when he{' '}
-        <a
-          href="https://twitter.com/tferriss/status/1376565672034066432?s=20&t=gwgZhhFA26ZDngJpnf4pdA"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://twitter.com/tferriss/status/1376565672034066432?s=20&t=gwgZhhFA26ZDngJpnf4pdA">
           says
-        </a>{' '}
+        </ExternalLink>{' '}
         “If code scripts machines, media scripts human beings”.
       </p>
       <p>

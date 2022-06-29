@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
+import { ExternalLink } from '../../components/ExternalLink';
 import { ThoughtDate } from '../../components/ThoughtDate';
 
 const Art = () => (
@@ -92,41 +93,21 @@ const Art = () => (
         Emotions are not the only thing that can be expressed through art.
         Sometimes it's about sending a message or sharing a particular culture.
         Everything can take the form of art.{' '}
-        <a
-          href="https://www.goodreads.com/book/show/10534.The_Art_of_War"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://www.goodreads.com/book/show/10534.The_Art_of_War">
           Many
-        </a>{' '}
-        <a
-          href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </ExternalLink>{' '}
+        <ExternalLink href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness">
           books
-        </a>{' '}
-        <a
-          href="https://www.goodreads.com/book/show/857333.The_Art_of_Learning"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </ExternalLink>{' '}
+        <ExternalLink href="https://www.goodreads.com/book/show/857333.The_Art_of_Learning">
           illustrate
-        </a>{' '}
-        <a
-          href="https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </ExternalLink>{' '}
+        <ExternalLink href="https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1">
           this
-        </a>{' '}
-        <a
-          href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </ExternalLink>{' '}
+        <ExternalLink href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck">
           idea
-        </a>
+        </ExternalLink>
         . Martial arts, programming or chess can give a feeling of awe to people
         practicing or watching it. In the beginning it's a conscious practice,
         we're still trying to understand what it's all about. But with
@@ -153,13 +134,9 @@ const Art = () => (
         chemical reactions to make us act in a certain way. But emotions have
         been a part of us way longer than language. We have to learn to listen
         to them. We should not be ruled by them, but we also shouldn't try to{' '}
-        <a
-          href="https://www.imdb.com/title/tt0238380/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://www.imdb.com/title/tt0238380/">
           elimitate them completely
-        </a>
+        </ExternalLink>
         .
       </p>
       <p>
@@ -176,13 +153,9 @@ const Art = () => (
         didn't have the life experience needed to relate to what the artists
         were trying to say. But more importantly, my mistake was that I was
         trying to understand art,{' '}
-        <a
-          href="https://youtu.be/tPEhCcluVdM?t=96"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ExternalLink href="https://youtu.be/tPEhCcluVdM?t=96">
           instead of feeling it
-        </a>
+        </ExternalLink>
         .
       </p>
     </div>
