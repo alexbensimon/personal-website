@@ -12,6 +12,11 @@ const Index = () => (
       <h1>Projects</h1>
       <ul>
         <li className="listItem">
+          <ExternalLink href="https://pakt.me/">
+            <h2 className="itemTitle">Pakt</h2>
+          </ExternalLink>
+        </li>
+        <li className="listItem">
           <ExternalLink href="https://github.com/alexbensimon/aoc-2021">
             <h2 className="itemTitle">AoC 2021 in Elixir</h2>
           </ExternalLink>
