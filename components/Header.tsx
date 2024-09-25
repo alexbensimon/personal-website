@@ -30,11 +30,6 @@ export const Header: FC = () => {
                 <a>Projects</a>
               </Link>
             </li>
-            <li className="listItem">
-              <ExternalLink href="https://tinyletter.com/alexbensimon">
-                News
-              </ExternalLink>
-            </li>
           </ul>
         </nav>
       </div>
