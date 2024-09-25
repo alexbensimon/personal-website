@@ -1,9 +1,9 @@
-import React, { FC, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { loadGoogleAnalytics } from '../utils/googleAnalytics';
 import { GlobalStyles } from './GlobalStyles';
 import { Header } from './Header';
 
-export const PageWrapper: FC = ({ children }) => {
+export const PageWrapper = ({ children }) => {
   useEffect(() => {
     loadGoogleAnalytics();
   }, []);

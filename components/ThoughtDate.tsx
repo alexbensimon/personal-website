@@ -1,7 +1,7 @@
-import React, { FC } from 'react';
+import React from 'react';
 import { colors } from '../utils/colors';
 
-export const ThoughtDate: FC = ({ children }) => (
+export const ThoughtDate = ({ children }) => (
   <>
     <span className="date">{children}</span>
     <style jsx>{`

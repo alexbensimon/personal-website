@@ -1,9 +1,8 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import React, { FC } from 'react';
-import { ExternalLink } from './ExternalLink';
+import React from 'react';
 
-export const Header: FC = () => {
+export const Header = () => {
   const { pathname } = useRouter();
   return (
     <>

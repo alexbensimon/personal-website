@@ -1,7 +1,7 @@
-import React, { FC } from 'react';
+import React from 'react';
 import { colors } from '../utils/colors';
 
-export const GlobalStyles: FC = () => (
+export const GlobalStyles = () => (
   <style jsx global>{`
     @import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&family=Lato&display=swap');
     body {

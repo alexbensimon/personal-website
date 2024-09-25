@@ -1,10 +1,11 @@
-import React, { FC } from 'react';
+import React from 'react';
 
 interface Props {
   href: string;
+  children: React.ReactNode;
 }
 
-export const ExternalLink: FC<Props> = ({ href, children }) => {
+export const ExternalLink = ({ href, children }: Props) => {
   return (
     <a href={href} target="_blank" rel="noopener noreferrer">
       {children}
