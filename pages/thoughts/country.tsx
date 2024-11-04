@@ -42,15 +42,12 @@ const Country = () => (
       </p>
       <p>
         I discovered pretty young how powerful online communities can be. When I
-        used to play{' '}
-        <Link href="/thoughts/games">
-          <a>games</a>
-        </Link>
-        , I was a member of an online group. We practiced together, shared
-        strategies on our forum, challenged each other and recruited other
-        members. The hierarchy, when needed, was based on merit. We had the same
-        goals despite being of different age, country, or background. I felt
-        deeply connected to them. Way more than to my high school classmates.
+        used to play <Link href="/thoughts/games">games</Link>, I was a member
+        of an online group. We practiced together, shared strategies on our
+        forum, challenged each other and recruited other members. The hierarchy,
+        when needed, was based on merit. We had the same goals despite being of
+        different age, country, or background. I felt deeply connected to them.
+        Way more than to my high school classmates.
       </p>
       <p>
         Having a rich online life reduces the importance of your physical

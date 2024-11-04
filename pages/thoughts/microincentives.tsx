@@ -101,12 +101,10 @@ const MicroIncentives = () => (
       </p>
       <p>
         I've already written a bit about why one should choose some{' '}
-        <Link href="/thoughts/guidelines">
-          <a>personal guidelines</a>
-        </Link>
-        . I think vision and incentives are complementary. The long term vision
-        helps us planning how much cookie eating we want, and the short term
-        incentive helps us follow the plan every day.
+        <Link href="/thoughts/guidelines">personal guidelines</Link>. I think
+        vision and incentives are complementary. The long term vision helps us
+        planning how much cookie eating we want, and the short term incentive
+        helps us follow the plan every day.
       </p>
     </div>
   </>

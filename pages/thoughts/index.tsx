@@ -13,65 +13,47 @@ const Index = () => (
       <ul>
         <li className="listItem">
           <Link href="/thoughts/quantifiedself">
-            <a>
-              <h2 className="itemTitle">Quantified Self</h2>
-            </a>
+            <h2 className="itemTitle">Quantified Self</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/microincentives">
-            <a>
-              <h2 className="itemTitle">Micro-incentives</h2>
-            </a>
+            <h2 className="itemTitle">Micro-incentives</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/indistractable">
-            <a>
-              <h2 className="itemTitle">Indistractable</h2>
-            </a>
+            <h2 className="itemTitle">Indistractable</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/country">
-            <a>
-              <h2 className="itemTitle">Country</h2>
-            </a>
+            <h2 className="itemTitle">Country</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/art">
-            <a>
-              <h2 className="itemTitle">Art</h2>
-            </a>
+            <h2 className="itemTitle">Art</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/guidelines">
-            <a>
-              <h2 className="itemTitle">Guidelines</h2>
-            </a>
+            <h2 className="itemTitle">Guidelines</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/writing">
-            <a>
-              <h2 className="itemTitle">Writing</h2>
-            </a>
+            <h2 className="itemTitle">Writing</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/games">
-            <a>
-              <h2 className="itemTitle">Games</h2>
-            </a>
+            <h2 className="itemTitle">Games</h2>
           </Link>
         </li>
         <li className="listItem">
           <Link href="/thoughts/abstractions">
-            <a>
-              <h2 className="itemTitle">Abstractions</h2>
-            </a>
+            <h2 className="itemTitle">Abstractions</h2>
           </Link>
         </li>
       </ul>

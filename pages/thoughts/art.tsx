@@ -25,12 +25,9 @@ const Art = () => (
         As a kid I used to go to all kinds of museums and shows with my mom. I'm
         not sure I really liked it. I was <em>interested</em> of course, but it
         seemed I was supposed to love it. When comparing it to my experience
-        playing{' '}
-        <Link href="/thoughts/games">
-          <a>games</a>
-        </Link>
-        , it felt passive and savorless. Years passed and I never considered
-        myself sensitive to art in general. I thought it just wasn't my thing.
+        playing <Link href="/thoughts/games">games</Link>, it felt passive and
+        savorless. Years passed and I never considered myself sensitive to art
+        in general. I thought it just wasn't my thing.
       </p>
       <p>
         Some events made me reconsider. One of them was during a piano recital.

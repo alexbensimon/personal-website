@@ -28,10 +28,7 @@ const QuantifiedSelf = () => (
         original). It's tempting to think that eating until you "feel full" is
         enough and that the "body knows how to regulate itself". If this were
         true, people wouldn’t be overweight so obviously something else is going
-        on here. I’ve{' '}
-        <Link href="/thoughts/guidelines">
-          <a>already written</a>
-        </Link>{' '}
+        on here. I’ve <Link href="/thoughts/guidelines">already written</Link>{' '}
         about how our bodies have not evolved to deal with modern society and
         how we have found ways to hack our cravings. You'd better get ideas like
         "I feel good when I do/eat/read/think this so it's got to be good for

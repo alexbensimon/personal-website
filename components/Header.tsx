@@ -15,19 +15,13 @@ export const Header = () => {
         <nav>
           <ul className="list">
             <li className="listItem">
-              <Link href="/">
-                <a>Home</a>
-              </Link>
+              <Link href="/">Home</Link>
             </li>
             <li className="listItem">
-              <Link href="/thoughts">
-                <a>Thoughts</a>
-              </Link>
+              <Link href="/thoughts">Thoughts</Link>
             </li>
             <li className="listItem">
-              <Link href="/projects">
-                <a>Projects</a>
-              </Link>
+              <Link href="/projects">Projects</Link>
             </li>
           </ul>
         </nav>

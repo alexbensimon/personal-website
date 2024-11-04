@@ -41,14 +41,12 @@ const Writing = () => (
       </p>
       <p>
         I already talked about language as an{' '}
-        <Link href="/thoughts/abstractions">
-          <a>abstraction</a>
-        </Link>{' '}
-        of thinking. I find it really interesting to look for the right words
-        and phrases to express a feeling or a thought. It's not easy. A thought
-        can be so abstract that I can't find a way to put it into words. But
-        when I succeed, it's so rewarding. I hope that by improving my writing,
-        I can improve my thinking.
+        <Link href="/thoughts/abstractions">abstraction</Link> of thinking. I
+        find it really interesting to look for the right words and phrases to
+        express a feeling or a thought. It's not easy. A thought can be so
+        abstract that I can't find a way to put it into words. But when I
+        succeed, it's so rewarding. I hope that by improving my writing, I can
+        improve my thinking.
       </p>
       <p>
         If I keep the habit of writing, I will later be able to read some old
