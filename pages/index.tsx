@@ -4,7 +4,7 @@ import {
   AiOutlineGithub,
   AiOutlineLinkedin,
   AiOutlineMedium,
-  AiOutlineTwitter,
+  AiOutlineX,
 } from 'react-icons/ai';
 import { ExternalLink } from '../components/ExternalLink';
 
@@ -17,8 +17,8 @@ const Index = () => (
     <div className="root">
       <img src="/img/photo.jpg" alt="My face" />
       <div className="icons">
-        <ExternalLink href="https://twitter.com/alexbensimon">
-          <AiOutlineTwitter size="1.5em" title="Twitter" />
+        <ExternalLink href="https://x.com/alexbensimon">
+          <AiOutlineX size="1.5em" title="Twitter" />
         </ExternalLink>
         <ExternalLink href="https://linkedin.com/in/alexandrebensimon/">
           <AiOutlineLinkedin size="1.5em" title="LinkedIn" />
