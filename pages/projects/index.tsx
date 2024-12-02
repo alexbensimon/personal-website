@@ -45,6 +45,11 @@ const Index = () => (
       <h2>Advent of Code</h2>
       <ul>
         <li className="listItem">
+          <ExternalLink href="https://github.com/alexbensimon/aoc-2024">
+            <h2 className="itemTitle">AoC 2024 in C++</h2>
+          </ExternalLink>
+        </li>
+        <li className="listItem">
           <ExternalLink href="https://github.com/alexbensimon/aoc-2022">
             <h2 className="itemTitle">AoC 2022 in Python</h2>
           </ExternalLink>
