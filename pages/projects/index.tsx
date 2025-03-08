@@ -13,7 +13,7 @@ const Index = () => (
       <h2>Apps</h2>
       <ul>
         <li className="listItem">
-          <ExternalLink href="https://pakt.me/">
+          <ExternalLink href="https://github.com/alexbensimon/pakt">
             <h2 className="itemTitle">Pakt</h2>
           </ExternalLink>
         </li>
